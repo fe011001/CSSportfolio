@@ -1,3 +1,41 @@
+.hero{
+    min-height: 100vh;
+    width: 100%;
+    background-color: yellow;
+}
+a{
+  border-bottom: 5px solid rgb(13, 145, 239);
+  margin-block-end: 100px;
+  
+ 
+}
+
+  div {
+    background-color: pink;
+    width: 700px;
+    border: 15px solid rgb(13, 145, 239);
+    padding: 50px;
+    margin: 20px;
+  }
+
+  p {
+    background-color: pink;
+    width: 700px;
+    border: 15px solid rgb(13, 145, 239);
+    padding: 50px;
+    margin: 20px;
+  }
+
+
+
+
 body{
-    background-color: red;
+   background-color: aquamarine;
+   background-image: url(https://media.giphy.com/media/bySxDJqfaC39S/giphy.gif);
+   background-position: center;
+   background-repeat: no repeat;
+   background-size: 70%;
+   color: rgb(245, 248, 242);
+   padding: 0 8%;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
