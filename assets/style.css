@@ -11,7 +11,7 @@ a{
 }
 
   div {
-    background-color: pink;
+    background-color: rgb(203, 82, 201);
     width: 700px;
     border: 15px solid rgb(13, 145, 239);
     padding: 50px;
@@ -19,7 +19,7 @@ a{
   }
 
   p {
-    background-color: pink;
+    background-color: rgb(203, 82, 201);
     width: 700px;
     border: 15px solid rgb(13, 145, 239);
     padding: 50px;
@@ -31,7 +31,7 @@ a{
 
 body{
    background-color: aquamarine;
-   background-image: url(https://media.giphy.com/media/bySxDJqfaC39S/giphy.gif);
+   background-image: url(https://media.giphy.com/media/3j1cQ31u1AQKqG1tU6/giphy.gif);
    background-position: center;
    background-repeat: no repeat;
    background-size: 70%;
