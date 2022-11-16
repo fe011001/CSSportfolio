@@ -1,7 +1,7 @@
 .hero{
     min-height: 100vh;
     width: 100%;
-    background-color: yellow;
+    
 }
 a{
   border-bottom: 5px solid rgb(13, 145, 239);
@@ -13,7 +13,7 @@ a{
   div {
     background-color: rgb(203, 82, 201);
     width: 700px;
-    border: 15px solid rgb(13, 145, 239);
+    border: 15px solid rgba(156, 64, 179, 0.592);
     padding: 50px;
     margin: 20px;
   }
@@ -21,10 +21,30 @@ a{
   p {
     background-color: rgb(203, 82, 201);
     width: 700px;
-    border: 15px solid rgb(13, 145, 239);
+    border: 15px solid rgba(156, 64, 179, 0.592);
     padding: 50px;
     margin: 20px;
   }
+ 
+  a:link {
+      color: rgb(236, 241, 236);
+    }
+    
+   
+    a:visited {
+      color: rgb(236, 241, 236);
+    }
+    
+   
+    a:hover {
+      color: rgb(72, 181, 183);
+    }
+    
+   
+    a:active {
+      color: rgb(178, 178, 204);
+    }
+
 
 
 
@@ -37,5 +57,5 @@ body{
    background-size: 70%;
    color: rgb(245, 248, 242);
    padding: 0 8%;
-   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-family: 'Luminari, fantasy', Luminari, fantasy;
 }
